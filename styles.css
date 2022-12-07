@@ -1,0 +1,76 @@
+html{
+  background-color: black;
+}
+header{
+  background-color: black;
+}
+.logo{
+  width: 20%;
+  color:white;
+  padding-bottom: 10px;
+}
+.nav{  
+  padding: 5px;
+  
+  color:white;
+  font-family: fantasy;
+}
+a:link {
+  text-decoration: none;
+  color:white;
+}
+a:hover {
+  text-decoration: none; 
+  color: rgb(164, 30, 164); 
+  font-size: 15px; 
+  
+}
+	
+
+main{
+  background-color: gray;
+  height: 100%;
+}
+
+.photo{
+  width: 80%;
+  margin-top: 50px;
+  opacity: 0.8;
+  border-radius: 100px;
+  
+  
+}
+#welcome{
+  
+  font-family: fantasy;
+  text-align: end;
+  text-decoration: overline;
+  color:rgb(87, 31, 11)
+}
+
+.title{
+  margin-top: 150px;
+}
+.tittlep1{
+  font-family: fantasy, 'courier new';
+  text-align: justify;
+}
+
+.principal{
+  padding-bottom: 50px;
+}
+footer{
+  ;
+  background-color: black;
+  text-align: center;
+  font-family: fantasy;
+  font-size: 12px; 
+  
+  
+}
+.footerp{
+  color: white;
+}
+blockquote{
+  color:rgb(213, 207, 207);
+}
