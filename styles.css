@@ -59,8 +59,12 @@ main{
 .principal{
   padding-bottom: 50px;
 }
+
+h2{
+  text-align: center;
+}
 footer{
-  ;
+  
   background-color: black;
   text-align: center;
   font-family: fantasy;
