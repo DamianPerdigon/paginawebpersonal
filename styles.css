@@ -62,7 +62,36 @@ main{
 
 h2{
   text-align: center;
+  font-family: fantasy, 'courier new';
+  top: 100px;
 }
+#js{
+
+  background-color: rgb(30, 39, 70);
+}
+
+.card-group{
+  
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  align-items: center;
+  width: 60%;
+  
+ 
+  
+}
+.card1{
+  left:150px;
+}
+.card2{
+  left: 320px;
+}
+.card3{
+  margin-right: 0px;
+  left:450px;
+}
+
 footer{
   
   background-color: black;
